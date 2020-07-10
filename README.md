@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🌱 Soy desarrolladow web
-- 🔭 Actualmente trabajo Patagonian
+- 🌱 Soy desarrollador web
+- 🔭 Actualmente trabajo en Patagonian
 - 💬 Preguntenme lo que quieran
 - 📫 @jcalou
